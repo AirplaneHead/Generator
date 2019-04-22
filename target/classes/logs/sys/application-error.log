@@ -1,0 +1,9 @@
+[ERROR] 2018-08-20 14:02:41 [Line 201] com.winit.generator.framework.Application.workWithoutCallback - 任务com.winit.generator.task.InitTask执行出现异常！ java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+	at java.util.ArrayList.rangeCheck(ArrayList.java:635) ~[?:1.7.0_79]
+	at java.util.ArrayList.get(ArrayList.java:411) ~[?:1.7.0_79]
+	at com.winit.generator.task.InitTask.doInternal(InitTask.java:76) ~[classes/:?]
+	at com.winit.generator.framework.AbstractApplicationTask.perform(AbstractApplicationTask.java:67) ~[classes/:?]
+	at com.winit.generator.framework.Application.workWithoutCallback(Application.java:190) [classes/:?]
+	at com.winit.generator.framework.Application.work(Application.java:110) [classes/:?]
+	at com.winit.generator.application.WinitGeneratorApplication.main(WinitGeneratorApplication.java:36) [classes/:?]
+

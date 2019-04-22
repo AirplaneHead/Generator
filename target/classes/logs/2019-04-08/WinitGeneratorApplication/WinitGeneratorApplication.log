@@ -1,0 +1,17 @@
+[INFO] 2019-04-08 14:24:27 [Line 132] com.winit.generator.log.LogFactory.getApplicationLogger - 创建一个应用程序日志记录对象成功：/D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication//D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication/WinitGeneratorApplication.log
+[INFO] 2019-04-08 14:24:27 [Line 244] com.winit.generator.framework.Application.parseArgs - 开始解析应用程序参数：[]
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务InitTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务CombineInfoTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务EntityTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务DaoTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务MapperTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务VoTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务ManagerTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务ManagerImplTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务CommandTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务ServiceTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务ServiceImplTask
+[INFO] 2019-04-08 14:24:27 [Line 220] com.winit.generator.framework.Application.addApplicationTask - 添加新的应用程序任务ServiceTestTask
+[INFO] 2019-04-08 14:24:27 [Line 183] com.winit.generator.framework.Application.workWithoutCallback - 应用程序com.winit.generator.application.WinitGeneratorApplication执行开始时间：2019-04-08T14:24:27.123+0800
+[INFO] 2019-04-08 14:24:35 [Line 207] com.winit.generator.framework.Application.workWithoutCallback - 应用程序com.winit.generator.application.WinitGeneratorApplication执行结束时间：2019-04-08T14:24:35.747+0800
+[INFO] 2019-04-08 14:24:35 [Line 209] com.winit.generator.framework.Application.workWithoutCallback - 应用程序com.winit.generator.application.WinitGeneratorApplication执行总耗时(秒)：8,总耗时(毫秒):8624

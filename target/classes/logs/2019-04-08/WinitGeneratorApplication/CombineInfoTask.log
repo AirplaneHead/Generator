@@ -1,0 +1,6 @@
+[INFO] 2019-04-08 14:24:27 [Line 155] com.winit.generator.log.LogFactory.getApplicationTaskLogger - 创建一个应用程序任务日志记录对象成功：/D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication//D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication/CombineInfoTask.log
+[INFO] 2019-04-08 14:24:35 [Line 28] com.winit.generator.task.CombineInfoTask.doInternal - 组装信息
+[INFO] 2019-04-08 14:24:35 [Line 35] com.winit.generator.task.CombineInfoTask.doInternal - 所有实体的包名为com.winit.oms.isp.entity， 路径为：entity
+[INFO] 2019-04-08 14:24:35 [Line 87] com.winit.generator.task.CombineInfoTask.doInternal - 属性类型：{id=Long, orderNo=String, status=String, trackingno=String, handelTimes=Integer, orderTime=Date, createdby=String, created=Date, updatedby=String, updated=Date, organizationId=Integer, isActive=String, isDelete=String}
+[INFO] 2019-04-08 14:24:35 [Line 88] com.winit.generator.task.CombineInfoTask.doInternal - 属性jdbcTypes：{id=BIGINT, orderNo=VARCHAR, status=VARCHAR, trackingno=VARCHAR, handelTimes=INTEGER, orderTime=TIMESTAMP, createdby=VARCHAR, created=TIMESTAMP, updatedby=VARCHAR, updated=TIMESTAMP, organizationId=INTEGER, isActive=VARCHAR, isDelete=VARCHAR}
+[INFO] 2019-04-08 14:24:35 [Line 98] com.winit.generator.task.CombineInfoTask.doInternal - imports:[java.util.Date]

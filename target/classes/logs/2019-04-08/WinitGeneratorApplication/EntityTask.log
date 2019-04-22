@@ -1,0 +1,3 @@
+[INFO] 2019-04-08 14:24:27 [Line 155] com.winit.generator.log.LogFactory.getApplicationTaskLogger - 创建一个应用程序任务日志记录对象成功：/D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication//D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication/EntityTask.log
+[INFO] 2019-04-08 14:24:35 [Line 27] com.winit.generator.task.EntityTask.doInternal - 开始生成实体
+[INFO] 2019-04-08 14:24:35 [Line 37] com.winit.generator.task.EntityTask.doInternal - 生成实体类完成

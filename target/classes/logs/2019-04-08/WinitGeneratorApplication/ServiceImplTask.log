@@ -1,0 +1,3 @@
+[INFO] 2019-04-08 14:24:27 [Line 155] com.winit.generator.log.LogFactory.getApplicationTaskLogger - 创建一个应用程序任务日志记录对象成功：/D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication//D:/codeManager/winit-java-generator-master/target/classes/logs/2019-04-08/WinitGeneratorApplication/ServiceImplTask.log
+[INFO] 2019-04-08 14:24:35 [Line 18] com.winit.generator.task.ServiceImplTask.doInternal - 开始生成serviceImpl...
+[INFO] 2019-04-08 14:24:35 [Line 27] com.winit.generator.task.ServiceImplTask.doInternal - 结束生成serviceImpl。。。
